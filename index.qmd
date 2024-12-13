@@ -33,11 +33,19 @@ INDSÆT VIDEO
 
 ## Kontakt
 
-Jonas Munk Jensen, Projektmedarbejder
+![Jonas Munk Jensen](pic/Jonas.PNG)
 
-[Jonas.munk.jensen\@rm.dk](mailto:Jonas.munk.jensen@rm.dk){.email}
+Projektleder og kontaktperson
+Jonas Munk Jensen
+Mail: jonas.munk.jensen@rm.dk
+tlf. 2460 7984
 
-Tlf: 24607984
+![Anette Andersen](pic/anette.PNG)
+
+Programleder og Overlæge
+Anette Andersen
+Mail: anette.andersen@rm.dk
+tlf. 2213 5605
 
 ## Ofte stillede spørgsmål
 
