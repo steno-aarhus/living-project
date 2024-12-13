@@ -27,25 +27,11 @@ Deltagerkommunerne får mulighed for at:
 
 - Styrke samarbejdet mellem kommunale aktører og forskere, hvilket kan skabe nye partnerskaber og samarbejdsmuligheder.
 
+::: {.hidden}
 ## Video
 
 INDSÆT VIDEO
-
-## Kontakt
-
-![Jonas Munk Jensen](pic/Jonas.PNG)
-
-Projektleder og kontaktperson
-Jonas Munk Jensen
-Mail: jonas.munk.jensen@rm.dk
-tlf. 2460 7984
-
-![Anette Andersen](pic/anette.PNG)
-
-Programleder og Overlæge
-Anette Andersen
-Mail: anette.andersen@rm.dk
-tlf. 2213 5605
+:::
 
 ## Ofte stillede spørgsmål
 
@@ -105,3 +91,29 @@ Desuden ved vi, at mange mennesker nedprioriterer træning på grund af manglend
 
 - *Opkvalificering og support:*  Der planlægges møder for at hjælpe jer godt i gang med at bruge Lev Livet. Desuden bliver relevant personale oplært i dataindsamling og forskningsprocedure. Der udnævnes en person fra jeres sundhedscenter som er ansvarlig for at procedurer bliver afholdt. I får en kontaktperson fra Steno Aarhus til at besvare spørgsmål og yde support. Løbende vil vi holde møder for at adressere eventuelle udfordringer, give feedback på samarbejdet og opdatere på projektets fremskridt.  
 </details>
+
+## Kontakt
+
+### Jonas Munk Jensen
+
+::: {layout-ncol=2}
+
+- Projektleder og kontaktperson
+- Mail: jonas.munk.jensen@rm.dk
+- Tlf. 2460 7984
+
+![](pic/Jonas.PNG)
+
+:::
+
+### Anette Andersen
+
+::: {layout-ncol=2}
+
+- Programleder og Overlæge
+- Mail: anette.andersen@rm.dk
+- Tlf. 2213 5605
+
+![](pic/anette.PNG)
+
+:::
