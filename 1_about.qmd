@@ -3,13 +3,15 @@ title: "LIVING - En national evaluering af Lev Livet patientuddannelseskonceptet
 ---
 
 **Om projektet**
-Fire kommuner i Region Midtjylland, Region Syddanmark og Region Sjælland har tilmeldt sig projektet LIVING som undersøger effekten af patientuddannelseskonceptet Lev Livet rettet mod borgere med Type 2 Diabetes.Du kan læse mere om Lev Livet konceptet via dette link: <https://levlivet.online/>
+LIVING er et forskningsprojekt, der undersøger effekten af patientuddannelseskonceptet Lev Livet, som er målrettet borgere med Type 2-Diabetes. Projektet har allerede tiltrukket deltagelse fra fire kommuner fra Region Midtjylland, Region Syddanmark, og Region Sjælland. Der er stadig mulighed for, at flere kommuner kan blive en del af projektet.
 
-Målet er at evaluere 3 forskellige måder at integrere Lev Livet i et kommunalt sundhedstilbud og bidrage med evidens på et område, som ikke er grundigt undersøgt. Kommunerne som deltager kan selv vælge, hvilken af interventionerne de vil tilbyde:
+Formålet med LIVING er at evaluere tre forskellige måder at integrere Lev Livet i kommunale sundhedstilbud. Ved at deltage bidrager kommunerne til vigtig evidens på et område, der endnu ikke er tilstrækkeligt belyst. Deltagende kommuner har mulighed for at vælge én af følgende tilgange:
 
 - Lev Livet Fast Track
 - Lev Livet 
 - Lev Livet inklusiv træning
+
+Du kan læse mere om Lev Livet konceptet her: <https://levlivet.online/>
 
 **Fordele ved at deltage**
 
@@ -42,10 +44,11 @@ Tlf: 24607984
 <details>
 <summary>**Hvorfor er det vigtigt at evaluere Lev Livet?**</summary>
 
+Med regeringens nylige fremlagte lovforslag om en national kvalitetsplan, som sigter mod at fastlægge forpligtende standarder og anbefalinger for kommunale sundhedsindsatser, står vi på tærsklen til at skabe et mere ensartet sundhedsvæsen i hele landet. Det er dog vigtigt at bemærke, at meget få kommunale sundhedstilbud for type 2-diabetes hidtil er blevet omfattende evalueret i et forskningsmæssigt perspektiv. Derfor er der et behov for at belyse evidensen og identificere (omkostnings)effektive interventioner. Dette vil kvalificere de foreslåede krav og anbefalinger og give os mulighed for at skabe bedre sundhedsfremmende tilbud for borgere med type 2-diabetes.
+
 Hidtidige evalueringer af Lev Livet har primært fokuseret på brugertilfredshed og har ikke inkluderet vigtige sundhedsindikatorer som blodsukkerniveau, blodtryk,fysisk formåen og aktivitet. Dette gør det vanskeligt at konkludere, om Lev Livet faktisk reducerer risikoen for diabetiske komplikationer.
 
 Forskningsprojektet LIVING er dedikeret til at udforske dette. Vi vil ikke kun afdække, om Lev Livet forbedrer deltageres evne til at håndtere deres sygdom, men også om det faktisk påvirker de før nævnte sundhedsindikatorer. Vi går endnu videre ved at foretage antropologiske og økonomiske vurderinger for at forstå de bredere implikationer af Lev Livet. Ved at indsamle en rig og omfattende datamængde søger vi ikke kun at besvare, i hvilken grad Lev Livet når sine mål, men også at dykke ned i, hvordan personalets arbejdsmønstre påvirkes og hvordan Lev Livet interagerer med omgivelserne, hvor det implementeres. Desuden vil vi afdække de ressourcer, der kræves for at opnå klinisk relevante forbedringer. Foruden at evaluere Lev Livet vil vi i dette forskningsprojekt også undersøge betydningen af fysisk træning som en central komponent i kommunale sundhedstilbud til borgere med type 2-diabetes. 
-Med regeringens nylige fremlagte lovforslag om en national kvalitetsplan, som sigter mod at fastlægge forpligtende standarder og anbefalinger for kommunale sundhedsindsatser, står vi på tærsklen til at skabe et mere ensartet sundhedsvæsen i hele landet. Det er dog vigtigt at bemærke, at meget få kommunale sundhedstilbud for type 2-diabetes hidtil er blevet omfattende evalueret i et forskningsmæssigt perspektiv. Derfor er der et behov for at belyse evidensen og identificere (omkostnings)effektive interventioner. Dette vil kvalificere de foreslåede krav og anbefalinger og give os mulighed for at skabe bedre sundhedsfremmende tilbud for borgere med type 2-diabetes.
 </details>
 
 <details>
