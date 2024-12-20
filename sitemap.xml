@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://steno-aarhus.github.io/living-project/index.html</loc>
-    <lastmod>2024-12-20T14:12:07.997Z</lastmod>
+    <lastmod>2024-12-20T14:21:31.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/living-project/directory.html</loc>
+    <lastmod>2024-12-20T14:21:31.626Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/living-project/LICENSE.html</loc>
+    <lastmod>2024-12-20T14:21:31.618Z</lastmod>
   </url>
 </urlset>
