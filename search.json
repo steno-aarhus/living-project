@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "directory.html",
-    "href": "directory.html",
-    "title": "Website Directory",
-    "section": "",
-    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LIVING - En national evaluering af patientuddannelseskonceptet Lev Livet",
@@ -28,6 +21,13 @@
     "text": "Fordele ved at deltage\nDeltagerkommunerne får mulighed for at:\n\nVære på forkant med sundhedsinnovation og evidensbaserede praksisser.\nOpbygge erfaring med forskning og bidrage til udviklingen af fremtidige sundhedsindsatser for borgere med type 2-diabetes.\nDrage fordel af gratis Lev Livet-materiale og bruge forskningsresultater som beslutningsgrundlag for at optimere sundhedstilbud.\nModtage økonomisk kompensation for ekstra arbejdstimer relateret til projektet.\nStyrke samarbejdet mellem kommunale aktører og forskere, hvilket kan skabe nye partnerskaber og samarbejdsmuligheder."
   },
   {
+    "objectID": "index.html#hør-anne-fra-sundhedscenter-brørup-fortælle-om-projektet",
+    "href": "index.html#hør-anne-fra-sundhedscenter-brørup-fortælle-om-projektet",
+    "title": "LIVING - En national evaluering af patientuddannelseskonceptet Lev Livet",
+    "section": "Hør Anne fra Sundhedscenter Brørup fortælle om projektet",
+    "text": "Hør Anne fra Sundhedscenter Brørup fortælle om projektet"
+  },
+  {
     "objectID": "index.html#ofte-stillede-spørgsmål",
     "href": "index.html#ofte-stillede-spørgsmål",
     "title": "LIVING - En national evaluering af patientuddannelseskonceptet Lev Livet",
@@ -40,6 +40,13 @@
     "title": "LIVING - En national evaluering af patientuddannelseskonceptet Lev Livet",
     "section": "Kontakt",
     "text": "Kontakt\n\nJonas Munk Jensen\n\n\n\n\nProjektleder og kontaktperson\nMail: jonas.munk.jensen@rm.dk\nTlf. 2460 7984\n\n\n\n\n\n\n\n\n\nAnette Andersen\n\n\n\n\nProgramleder og Overlæge\nMail: anette.andersen@rm.dk\nTlf. 2213 5605"
+  },
+  {
+    "objectID": "directory.html",
+    "href": "directory.html",
+    "title": "Website Directory",
+    "section": "",
+    "text": "These are other websites across Steno Aarhus:\n\nOfficial site: The official Region Midt website for more general public information and details.\nResearch Common Docs: Common documents and operating prodecures for researchers across Steno Aarhus.\nEpidemiology and Statistics: Events and activities related to epidemiology and statistics.\nRegister Research Space: Events and activities related to register-based research.\nInternationalization: Efforts to spread knowledge and connect with other countries, specifically Latin America.\nEpidemiology Group: Documentation for meetings within the epidemiology group.\nCoding Cafe: Schedule for in-person coding support and help."
   },
   {
     "objectID": "LICENSE.html",
