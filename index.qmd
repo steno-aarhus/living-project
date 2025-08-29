@@ -59,11 +59,9 @@ Deltagerkommunerne får mulighed for at:
 -   Styrke samarbejdet mellem kommunale aktører og forskere, hvilket kan
     skabe nye partnerskaber og samarbejdsmuligheder.
 
-::: content-hidden
-## Video
+## Hør Anne fra Sundhedscenter Brørup fortælle om projektet
 
-INDSÆT VIDEO
-:::
+{{< video "https://vimeo.com/1114168280" >}}
 
 ## Ofte stillede spørgsmål
 
