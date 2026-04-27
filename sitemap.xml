@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/living-project/index.html</loc>
-    <lastmod>2025-09-15T12:25:32.278Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/living-project/directory.html</loc>
-    <lastmod>2025-09-15T12:25:32.273Z</lastmod>
-  </url>
-  <url>
     <loc>https://steno-aarhus.github.io/living-project/LICENSE.html</loc>
-    <lastmod>2025-09-15T12:25:32.268Z</lastmod>
+    <lastmod>2026-04-27T10:40:15.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/living-project/index.html</loc>
+    <lastmod>2026-04-27T10:40:15.128Z</lastmod>
   </url>
 </urlset>
